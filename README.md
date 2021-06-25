@@ -1,4 +1,9 @@
-### Hi there 👋
+### ¡Hola! Soy Fer Marcelín 👋👩🏻‍💻
+Soy desarrolladora  fullstack junior terminando mi último semestre en Ingeniería electrónica con especialidad en ciencias de la computación y gran interés en DataScience.
+
+### Puedes encontrarme en:
+- [LinkedIn] (https://www.linkedin.com/in/fernanda-marcelín)
+- [Instagram] (https://www.instagram.com/marcelinfer/)
 
 <!--
 **FerMarcelin/FerMarcelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
